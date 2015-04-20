@@ -1,0 +1,16 @@
+-- FONTSIZE Paint.Net = 144, Calibri
+-- Outmask, Rauschen (18,0,65), Leuchten(10,-100,-100)
+-- Buchstabenfarbe 226,210,184
+-- Twitch Gameplay, Pigpen cipher
+
+ok -- disable print !!!!!!!!!!!!!!!!!!!!
+
+-- more puzzels
+-- Music
+
+-- zwei modi, einer mit zeit (ZEIT COUNTER ANZEIGEN) einer ohne zeit
+
+-- custom cursor !!
+-- tutorial !?
+-- tutorial anzeigen !?
+
